@@ -1,5 +1,7 @@
 # 7 Steps 2 Success
 
+[![Language](https://img.shields.io/github/languages/top/masikh/7-steps-2-succes)](https://github.com/masikh/7-steps-2-succes) [![Last commit](https://img.shields.io/github/last-commit/masikh/7-steps-2-succes)](https://github.com/masikh/7-steps-2-succes/commits) [![Repo size](https://img.shields.io/github/repo-size/masikh/7-steps-2-succes)](https://github.com/masikh/7-steps-2-succes) [![Stars](https://img.shields.io/github/stars/masikh/7-steps-2-succes?style=flat)](https://github.com/masikh/7-steps-2-succes/stargazers)
+
 **Auteur:** Robert Nagtegaal  
 **Datum:** 24 juni 2024
 
